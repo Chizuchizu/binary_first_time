@@ -2,7 +2,7 @@
 
 
 void pwn() {
-  printf("hacked");
+  printf("hacked\n");
 }
 
 void vuln(){
